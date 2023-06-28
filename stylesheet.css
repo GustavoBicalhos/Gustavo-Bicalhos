@@ -5,3 +5,6 @@ body {
     background: linear-gradient(90deg, rgba(72,61,139,1) 0%, rgba(158,151,200,1) 51%, rgba(221,212,238,1) 100%);
 }
 
+.bold {
+    font-weight:bold;
+}
