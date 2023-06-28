@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="download.png">
+        <link rel="stylesheet" href="stylesheet.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <title>Gustavo Bicalhos</title>
+    </head>
+    <body>
+        <h1 style="background-color:StateBlue">Quem sou eu?</h1>
+        <p>Eu me chamo Gustavo Bicalhos, Tenho 16 anos e estudo no São Pedro Apóstolo. 
+            <br> Gosto bastante de jogos online e também individuais. 
+            <br> Ultimamente, tenho jogado bastante Minecraft em um servidor com meus amigos... 
+            <br> Me interesso Bastante pelas disciplinas de exatas, como física, cálculo, etc...
+        </p>
+        <p>Imagem de eu sendo seguido por um tridente:</p>
+        <img src="mine.jpg">
+        <p>Como fazer isso?</p>
+        <ol>
+            <li>Encante um tridente com "Lealdade III";
+            <li>Preencha o inventário com itens;
+            <li>Ao lançar o tridente, abrirá um espaço a mais no inventário, entao jogue algum item no chão para pegar depois;
+            <li>Depois, é só sair andando por aí que o tridente vai te seguir... Assim que voce liberar um espaço no inventário, o tridente voltará.
+    </body>
+</html>
+        
+
