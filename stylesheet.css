@@ -52,6 +52,13 @@ nav a {
   text-decoration: none;
 }
 
+h1 {
+  margin: 0;
+  padding: 0;
+  margin-top: 120px;
+	
+}
+
 @media screen and (max-width: 768px) {
       header {
         font-size: 18px; 
