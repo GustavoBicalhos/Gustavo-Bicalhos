@@ -48,6 +48,7 @@ header {
 nav ul {
   list-style: none;
   padding: 0;
+  white-space:nowrap;
 }
 
 nav li {
@@ -58,6 +59,14 @@ nav li {
 nav a {
   color: #fff;
   text-decoration: none;
+  white-space: nowrap; /* Impede a quebra de linha */
+  overflow: hidden; /* Esconde o texto que não couber */
+  text-overflow: ellipsis; /* Adiciona reticências (...) no final do texto escondido */
+}
+
+nav a:hover {
+	color:slateblue;
+	text-decoration: underline;
 }
 
 h1, p, ul, li, img {
