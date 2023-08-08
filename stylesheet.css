@@ -1,8 +1,16 @@
 body {
-    font-family: 'Montserrat', sans-serif;
-    font-size:12px;
-    background: rgb(72,61,139);
-    background: linear-gradient(90deg, rgba(72,61,139,1) 0%, rgba(158,151,200,1) 51%, rgba(221,212,238,1) 100%);
+	font-family: 'Montserrat', sans-serif;
+    	font-size:12px;
+	background: rgb(72,61,139);
+	background: linear-gradient(90deg, rgba(72,61,139,1) 0%, rgba(158,151,200,1) 51%, rgba(221,212,238,1) 100%);
+}
+
+h1 {
+	font-size:12px;
+}
+
+p {
+	font-size:12px;
 }
 
 .centerImage {
